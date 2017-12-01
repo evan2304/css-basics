@@ -52,11 +52,14 @@ a{
 }
 
 a:hover{
-    color: purple;
+    color: red;
 }
 
-a:click{
-    color: blue;
+a:active{
+    color:blue;
+}
+a:visited{
+    color:black;
 }
 
 /*Write your CSS rules below!*/
