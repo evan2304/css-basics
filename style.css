@@ -50,6 +50,9 @@ code{
 a:link{
     color: green;
 }
+a:visited{
+    color:black;
+}
 
 a:hover{
     color: red;
@@ -58,9 +61,7 @@ a:hover{
 a:active{
     color:blue;
 }
-a:visited{
-    color:black;
-}
+
 
 /*Write your CSS rules below!*/
 
